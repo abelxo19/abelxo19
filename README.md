@@ -25,7 +25,7 @@ Recent software engineering graduate passionate about building creative and func
 
 ## 📌 Projects
 
-See my work and pinned projects on down below.
+See my work and pinned projects down below.
 
 ---
 
