@@ -21,7 +21,9 @@ Recent software engineering graduate passionate about building creative and func
   <img src="https://img.shields.io/badge/Frappe-364fc7?style=for-the-badge&logo=frappe&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
 
 ---
 
