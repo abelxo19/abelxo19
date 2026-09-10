@@ -15,15 +15,17 @@ Recent software engineering graduate passionate about building creative and func
   <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Frappe-364fc7?style=for-the-badge&logo=frappe&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
 
 ---
 
@@ -36,7 +38,7 @@ See my work and pinned projects down below.
 ## 🌐 Find Me Online
 
 - Personal website: [porifolio-site.vercel.app](https://porifolio-site.vercel.app/)
-- LinkedIn: [abel-atkelet-b36993282](https://www.linkedin.com/in/abel-atkelet-b36993282?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRr6kV1drQ3i%2FZHvimIdvEg%3D%3D)
+- LinkedIn: [abel-atkelet-b36993282](https://www.linkedin.com/in/abel-atkelet-b36993282)
 
 ---
 
