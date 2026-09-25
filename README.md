@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abel Atkelet
 
-Recent software engineering graduate passionate about building creative and functional digital experiences.
+Software engineering graduate passionate about building creative and functional digital experiences.
 
 ---
 
