@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Abel Atkelet
 
-Software engineering graduate passionate about building creative and functional digital experiences.
+Software Engineering graduate and Full-Stack Developer with experience in **software development, security testing, penetration testing, and AI/LLM evaluation**.
+
+I enjoy building scalable, secure, and user-friendly applications, identifying security vulnerabilities, and improving software quality through testing and automation.
 
 ---
 
@@ -29,6 +31,18 @@ Software engineering graduate passionate about building creative and functional 
 
 ---
 
+## 🛡️ Security Testing & Penetration Testing
+
+- Web Application Security Testing
+- Penetration Testing
+- Vulnerability Assessment
+- API Security Testing
+- Authentication & Authorization Testing
+- OWASP Top 10
+- Role-Based Access Control (RBAC) Testing
+
+---
+
 ## 📌 Projects
 
 See my work and pinned projects down below.
@@ -37,14 +51,15 @@ See my work and pinned projects down below.
 
 ## 🌐 Find Me Online
 
-- Personal website: [porifolio-site.vercel.app](https://porifolio-site.vercel.app/)
-- LinkedIn: [abel-atkelet-b36993282](https://www.linkedin.com/in/abel-atkelet-b36993282)
+- **Personal Website:** [porifolio-site.vercel.app](https://porifolio-site.vercel.app/)
+- **LinkedIn:** [abel-atkelet-b36993282](https://www.linkedin.com/in/abel-atkelet-b36993282)
 
 ---
 
 ## ⚡ More About Me
 
 - When I'm not coding, I enjoy playing football and listening to pop music.
-- I bring a creative vibe and fun energy, but always stay professional when needed.
+- I enjoy exploring cybersecurity, AI technologies, and modern development tools.
+- I bring creativity and curiosity to my work while maintaining a professional approach.
 
-Let’s connect and build something awesome together!
+Let's connect and build something awesome together!
